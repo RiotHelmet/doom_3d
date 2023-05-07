@@ -11,6 +11,7 @@ canvas {
   border: 2px solid black;
   cursor: none;
   margin: 5px;
+  image-rendering: pixelated;
 }
 
 #canvas {
